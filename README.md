@@ -47,9 +47,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalmanLS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=Projek-Comvis"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanLS&layout=compact&langs_count=8&theme=tokyonight&hide=Projek-Comvis"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SalmanLS&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 ## 📈 Contribution Graph
 <div align="center">
