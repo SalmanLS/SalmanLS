@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Salman Luthfi Sugiarto
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+Developer;Kotlin+Native+Enthusiast;Flutter+%26+Dart+Developer;Jetpack+Compose+Lover;Always+learning+new+things" alt="Typing SVG" />
@@ -8,12 +8,11 @@
 
 - 📱 **Mobile Developer** passionate about creating beautiful, performant mobile applications
 - 🎯 **Specializing in**: Cross-platform and native mobile development
-- 🔭 **Currently working on**: [Your current project]
-- 🌱 **Currently learning**: [What you're learning - e.g., "Advanced Jetpack Compose animations"]
+- 🌱 **Currently learning**: Jetpack Compose and Flutter
 - 👯 **Looking to collaborate on**: Open source mobile projects
 - 💬 **Ask me about**: Kotlin Multiplatform, Flutter, Mobile UI/UX
-- 📫 **How to reach me**: [your.email@example.com]
-- ⚡ **Fun fact**: [Something interesting about you]
+- 📫 **How to reach me**: salmanluthfi456@gmail.com
+- ⚡ **Fun fact**: I like to learn.
 
 ## 🛠️ Tech Stack
 
