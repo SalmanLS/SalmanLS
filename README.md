@@ -75,6 +75,11 @@
   
 ### Show some ❤️ by starring repositories you find interesting!
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=SalmanLS&color=blueviolet&style=flat-square&label=Profile+Views)
 
+</div>
+
+
+<div align="center">
+  <sub>📝 <strong>Last Updated:</strong> September 2025</sub>
 </div>
