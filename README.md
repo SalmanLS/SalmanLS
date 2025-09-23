@@ -38,7 +38,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Room" />
-  <img src="https://img.shields.io/badge/Hive-FF6D00?style=for-the-badge&logo=hive&logoColor=white" alt="Hive" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
 </p>
 
@@ -53,13 +52,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanLS&theme=tokyo-night" alt="Contribution Graph" />
 </div>
-
-## 🎓 Certifications & Learning
-
-- 📱 **Android Developer Certification** - [Year/Status]
-- 🔥 **Flutter Developer Certification** - [Year/Status]
-- 🏗️ **Kotlin Multiplatform Mobile** - [Course/Certification]
-- 🎨 **Jetpack Compose** - [Course/Certification]
 
 ## 🌐 Connect with Me
 
