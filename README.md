@@ -1,28 +1,29 @@
 # Hi there! 👋 I'm Salman Luthfi Sugiarto
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+Developer;Kotlin+Native+Enthusiast;Flutter+%26+Dart+Developer;Jetpack+Compose+Lover;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Kotlin+Mobile+Developer;Android+Native+Specialist;Flutter+Enthusiast;Jetpack+Compose+Expert;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 📱 **Mobile Developer** passionate about creating beautiful, performant mobile applications
-- 🎯 **Specializing in**: Cross-platform and native mobile development
-- 🌱 **Currently learning**: Jetpack Compose and Flutter
-- 👯 **Looking to collaborate on**: Open source mobile projects
-- 💬 **Ask me about**: Kotlin Multiplatform, Flutter, Mobile UI/UX
+- 📱 **Kotlin Mobile Developer** passionate about creating beautiful, performant Android applications
+- 🎯 **Specializing in**: Android native development with Kotlin
+- 🌟 **Also enthusiastic about**: Flutter & cross-platform development
+- 🌱 **Currently learning**: Advanced Jetpack Compose and Kotlin Multiplatform
+- 👯 **Looking to collaborate on**: Android projects and open source mobile development
+- 💬 **Ask me about**: Kotlin, Android development, Jetpack Compose, Mobile UI/UX
 - 📫 **How to reach me**: salmanluthfi456@gmail.com
-- ⚡ **Fun fact**: I like to learn.
+- ⚡ **Fun fact**: I like to learn new technologies and explore different mobile development approaches
 
 ## 🛠️ Tech Stack
 
 ### Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
 ### Tools & Platforms
@@ -48,9 +49,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanLS&layout=compact&langs_count=8&theme=tokyonight&hide=Projek-Comvis"/>
 </div>
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SalmanLS&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
 ## 📈 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SalmanLS&theme=tokyo-night" alt="Contribution Graph" />
+</div>
+
+## 💡 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ## 🌐 Connect with Me
@@ -71,6 +82,7 @@
 
 </div>
 
+---
 
 <div align="center">
   <sub>📝 <strong>Last Updated:</strong> September 2025</sub>
